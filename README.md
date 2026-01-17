@@ -67,21 +67,8 @@ I publish technical content and practical insights on:
 My goal is to continue growing as a **high-impact L4 Individual Contributor**, advancing my expertise in **backend engineering**, **concurrency-heavy systems**, **DevOps**, and **cloud platforms**, while building **high-performance, cost-efficient solutions for large-scale distributed systems** and contributing to **organizational technical transformation**.
 
 ---
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-<p valign="top" align="center">
-  <img width="400px" src="https://github-readme-stats-ebon-gamma-34.vercel.app/api?username=naros&show_icons=true&line_height=28&hide_border=false&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&theme=ayu-mirage&hide_title=true" hspace="10" />
-  <img width="400px" src="https://github-readme-streak-stats-delta-lilac.vercel.app?user=naros&theme=ayu-mirage&exclude_days=Sun%2CSat&height=400&v=16" hspace="10" />
-  <br/><br/>
-  <img src="https://img.shields.io/github/commit-activity/y/Naros/debezium?style=for-the-badge&label=Debezium%20commits" alt="Debezium commits" style="padding-right:20px;" />
-  <img src="https://img.shields.io/github/commit-activity/y/Naros/godot-orchestrator?style=for-the-badge&label=Orchestrator%20commits" alt="Godot Orchestrator commits" style="padding-right:20px;"/>
-</p>
-
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <img width="auto" src="https://github-profile-trophy-topaz.vercel.app/?username=Naros&theme=onedark&rank=-C&margin-w=5&margin-h=10&ver=129&title=MultiLanguage,LongTimeUser,Organizations,PullRequest,Repositories,Reviews,Commits,Issues,Followers&column=9" />
-</p>
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-  <img width="auto" src="https://skillicons.dev/icons?i=redhat,java,c,cs,cpp,dotnet,go,lua,py,ruby,rust,php,openshift,openstack,ansible,maven,cmake,gradle,spring,kafka,kubernetes,grafana,prometheus,git,github,githubactions,gitlab,linux,ubuntu,windows,apple,nginx,idea,clion,vscode,eclipse,visualstudio,docker,aws,azure,hibernate,postgres,mysql,mongodb,rabbitmq,redis,md,angular,js,html,css,cypress,react,bootstrap,tailwind,nodejs,npm,vite,jquery,laravel,godot,unity,unreal,blender,ai,pytorch,tensorflow,cloudflare,vercel&perline=18" />
+  <img width="auto" src="https://skillicons.dev/icons?i=go,kubernetes,docker,aws,azure,ai,java,lua,py,ruby,rust,openshift,openstack,ansible,maven,cmake,gradle,spring,kafka,,grafana,prometheus,git,github,githubactions,gitlab,linux,ubuntu,windows,apple,nginx,idea,clion,vscode,eclipse,visualstudio,hibernate,postgres,mysql,mongodb,rabbitmq,redis,md,angular,js,react,nodejs,npm,,pytorch,tensorflow,cloudflare,vercel&perline=18" />
 </p>
